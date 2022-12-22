@@ -1,0 +1,5 @@
+a= int(input("masukkan angka : "))
+
+hasil = a *10 /100
+
+print (hasil)
